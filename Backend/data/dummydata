@@ -1,0 +1,3 @@
+const dummydata= "This is the dummy data for notes,to show the api end point response"
+
+module.exports = dummydata
